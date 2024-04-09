@@ -147,6 +147,7 @@
     padding: 1.4rem 0.75rem !important;
     resize: none !important;
     font-family: Helvetica;
+    font-size:16px;
 }
 
 .appeal form .formGroup textarea:focus{
@@ -169,6 +170,7 @@
     padding: 15px;
     resize: none !important;
     font-family: Helvetica;
+    font-size:16px;
 }
 
 .appeal form .formGroup label{
